@@ -1,0 +1,7 @@
+- name: Ruby
+  percentage: 50
+  color: dark
+
+- name: Rails
+  percentage: 50
+  color: dark

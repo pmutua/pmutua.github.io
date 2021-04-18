@@ -1,0 +1,24 @@
+- name: HTML5/CSS3
+  percentage: 90
+  color: success
+
+- name: Python
+  percentage: 80
+  color: success
+
+- name: Django
+  percentage: 80
+  color: success
+
+- name: JavaScript
+  percentage: 70
+  color: success
+
+- name: TypeScript
+  percentage: 60
+  color: success
+
+- name: Angular
+  percentage: 60
+  color: success
+
