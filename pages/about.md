@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-I'm a software engineer living in Nairobi, Kenya. I make applications usually with Python/Django and Angular,love programming,reading anything about tech,traveling and listening to good music ;). I help build solutions for Nouveta, a company that provides channels such as SMS, USSD, app & web that businesses use to engage their customers enable payments across the channels.
+I'm a web & soft­ware developer living in Nairobi, Kenya. I make applications usually with Python/Django and Angular,love programming,reading anything about tech,traveling and listening to good music ;). I help build solutions for Nouveta, a company that provides channels such as SMS, USSD, app & web that businesses use to engage their customers enable payments across the channels.
 
 For more info, check out my projects and photos..
 
