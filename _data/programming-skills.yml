@@ -1,25 +1,25 @@
 
 - name: Python
   percentage: 90
-  color: success
+  color: danger
 
 - name: Django
   percentage: 90
-  color: success
+  color: danger
 
 - name: HTML5/CSS3
   percentage: 90
   color: success
 
 - name: JavaScript
-  percentage: 70
+  percentage: 80
   color: success
 
 - name: TypeScript
-  percentage: 70
+  percentage: 80
   color: success
 
 - name: Angular
-  percentage: 70
+  percentage: 80
   color: success
 
