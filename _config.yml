@@ -2,7 +2,7 @@
 title               : Philip Mutua 
 description         : >-
                       I’m a web & soft­ware developer from Nairobi, Kenya.
-baseurl             : "pmutua.github.io "                          # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl             : "pmutua.github.io"                          # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : pmutua/pmutua.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
