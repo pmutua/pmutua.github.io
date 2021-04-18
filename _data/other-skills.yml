@@ -11,5 +11,5 @@
   color: success
 
 - name: Rails
-  percentage: 70
+  percentage: 80
   color: dark 
