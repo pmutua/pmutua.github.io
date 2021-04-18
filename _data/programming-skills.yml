@@ -3,23 +3,20 @@
   percentage: 90
   color: danger
 
-- name: Django
+- name: JavaScript
   percentage: 90
-  color: danger
+  color: success
+
+- name: TypeScript
+  percentage: 90
+  color: success
 
 - name: HTML5/CSS3
   percentage: 90
   color: success
 
-- name: JavaScript
+- name: Ruby
   percentage: 80
-  color: success
+  color: dark
 
-- name: TypeScript
-  percentage: 80
-  color: success
-
-- name: Angular
-  percentage: 80
-  color: success
 

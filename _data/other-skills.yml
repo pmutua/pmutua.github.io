@@ -1,11 +1,14 @@
+- name: Django
+  percentage: 90
+  color: danger
+
 - name: Docker
   percentage: 85
   color: success
 
-
-- name: Ruby
-  percentage: 70
-  color: dark
+- name: Angular
+  percentage: 80
+  color: success
 
 - name: Rails
   percentage: 70
