@@ -1,7 +1,12 @@
+- name: Docker
+  percentage: 65
+  color: dark
+
+
 - name: Ruby
-  percentage: 50
+  percentage: 40
   color: dark
 
 - name: Rails
-  percentage: 50
+  percentage: 40
   color: dark

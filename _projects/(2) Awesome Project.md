@@ -1,15 +1,16 @@
 ---
-name: The Movies Project
-tools: [C#, XML, WPF]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+name: E-Vote
+tools: [HTML5,CSS3,JavaScript,TypeScript & Angular (front-end), Python & Django (backend), Docker, NGINX, Centos, MYSQL]
+image: https://i.imgur.com/SEecR4T.gif
+description: voting application for institutions.
 ---
 
-# The Movies Project
+# The e-vote Project
 
-The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
+The Movies Project is something like [**nVotes**](https://nvotes.com/elections-online-voting-tool/?medium=adwords&campaignid=1935804200&adgroupid=73346858760&creative=378247989539&keyword=online%20voting&matchtype=b&adposition=&network=g&device=c&devicemodel=&gclid=CjwKCAjwjuqDBhAGEiwAdX2cj-LWlPWgGBY3_sJ9op0YvhQNEodOyrRFqfnRxp185Ph-qaXaK37-rxoCar0QAvD_BwE), the only difference is that **it does not provide a magic link for voters**! Users are added by the organization before they do any kind of voting. This is suitable for organizations that usually have elections at some specific period.
+[demo](https://evote.revenuesure.co.ke/auth/signin)
 
-![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
+<!-- ![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
 
 ## Search Movies
 
@@ -17,4 +18,4 @@ The Movies Project is something like **Netflix**, the only difference is that **
 
 <p class="text-center">
 
-</p>
+</p> -->

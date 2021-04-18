@@ -1,7 +1,7 @@
 ---
-name: Empty Project
-tools: [Node JS, JavaScript, HTML, CSS]
-image:
-description: This project has no image or showcase page, but it is still a beautiful project inside out!
-external_url: https://github.com/YoussefRaafatNasry
+name: OSHA
+tools: [Python & Django (backend), Docker, NGINX, Centos, MYSQL]
+image: https://i.imgur.com/uNjYCL5.gif
+description: This is a system for the Occupational Health And Safety institution it  handles various activities such as inspection of workplaces, licensing of Practitioners, recording workplace incidents and managing inspections for different workplaces. 
+external_url: https://test.revenuesure.co.ke/oshaportal/home
 ---
