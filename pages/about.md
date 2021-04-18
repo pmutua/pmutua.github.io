@@ -8,7 +8,9 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I'm a software engineer living in Nairobi, Kenya. I make applications usually with Python/Django and Angular,love programming,reading anything about tech,traveling and listening to good music ;). I help build solutions for Nouveta, a company that provides channels such as SMS, USSD, app & web that businesses use to engage their customers enable payments across the channels.
+
+For more info, check out my projects and photos..
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
